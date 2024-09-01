@@ -13,8 +13,11 @@ Genre Recommender: Suggests related movie genres based on the user’s preferred
 Movie Recommender: Provides movie recommendations derived from the suggested genres.
 
 Key Components:
+
 ** AzureChatOpenAI: Leverages Azure's OpenAI API for the language model operations.
+
 ** PromptTemplate: Configures the prompts used by the language model.
+
 ** SimpleSequentialChain: Connects the two chains, ensuring a smooth flow from genre recommendation to movie selection.
 
 Example Output:
