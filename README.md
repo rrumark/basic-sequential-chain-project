@@ -22,7 +22,9 @@ Key Components:
 
 Example Output:
 > Favorite movie genre: War
+> 
 Output:
+
 > Initiating new BasicSequentialChain...
 1. Historical Drama - "Braveheart"
 2. Action - "Saving Private Ryan"
