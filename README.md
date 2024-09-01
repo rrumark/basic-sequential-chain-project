@@ -21,5 +21,5 @@ Output:
 1. Historical Drama - "Braveheart"
 2. Action - "Saving Private Ryan"
 3. Thriller - "Zero Dark Thirty"
-> Chain completed.
+> Finished chain.  
 
