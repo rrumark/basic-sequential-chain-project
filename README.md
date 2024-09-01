@@ -6,8 +6,10 @@ Notebook: "basic-sequential-chain-project.ipynb"
 
 This project illustrates how to build a basic sequential chain using LangChain. It integrates two interconnected chains:
 
-1.Genre Recommender: Suggests related movie genres based on the user’s preferred genre.
-2.Movie Recommender: Provides movie recommendations derived from the suggested genres.
+**1.**
+Genre Recommender: Suggests related movie genres based on the user’s preferred genre.
+**2.**
+Movie Recommender: Provides movie recommendations derived from the suggested genres.
 
 Key Components:
 ** AzureChatOpenAI: Leverages Azure's OpenAI API for the language model operations.
