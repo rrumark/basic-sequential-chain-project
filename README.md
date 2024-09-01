@@ -8,6 +8,7 @@ This project illustrates how to build a basic sequential chain using LangChain. 
 
 **1.**
 Genre Recommender: Suggests related movie genres based on the user’s preferred genre.
+
 **2.**
 Movie Recommender: Provides movie recommendations derived from the suggested genres.
 
